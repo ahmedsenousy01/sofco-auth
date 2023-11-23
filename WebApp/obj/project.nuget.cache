@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qiJZ0Qtv8y6FSC+lpfccDzDcgytUz88/oVwxYq0lLGbRKrQY3srOSQNEgC5duJz5Ja565CKX6PzfTY34x0SEUA==",
+  "success": true,
+  "projectFilePath": "M:\\Projects (Currently Working On)\\sofco-auth\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmed Senousy\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.3\\microsoft.identitymodel.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Senousy\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.3\\microsoft.identitymodel.jsonwebtokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Senousy\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.3\\microsoft.identitymodel.logging.7.0.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Senousy\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.3\\microsoft.identitymodel.tokens.7.0.3.nupkg.sha512",
+    "C:\\Users\\Ahmed Senousy\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.3\\system.identitymodel.tokens.jwt.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
